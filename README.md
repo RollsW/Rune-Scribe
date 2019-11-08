@@ -1,4 +1,4 @@
-# Rune_Scribe
+# Rune Scribe
 A short python script that translates English (Latin) characters into Anglo Saxon Runes.
 
 The script is a super-simple dict, with a function front end. 
